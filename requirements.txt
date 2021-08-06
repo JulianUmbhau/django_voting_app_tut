@@ -1,0 +1,5 @@
+django
+ipykernel
+pandas
+numpy
+sklearn
