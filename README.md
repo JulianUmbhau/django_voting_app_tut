@@ -25,7 +25,7 @@ Send out vote reminders
 Collect data
 Analyse voting data
 - meta-data?
-NLP Analyse response data
+NLP Analyse response data - other repo
 - Clustering of subjects, responses, sentiments, etc
 Deliver dashboard?
 - Presentation/reports?
