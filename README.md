@@ -32,3 +32,15 @@ Deliver dashboard?
 
 ## TBD
 https://docs.djangoproject.com/en/3.2/intro/tutorial02/
+
+Ideas
+Tutorial
+- https://tutorial.djangogirls.org/en/
+- https://www.youtube.com/godjango/
+- https://gitlab.com/rosarior/django-must-watch
+- https://www.coursera.org/learn/django-build-web-apps?specialization=django
+
+Themes
+- https://django-edge.readthedocs.io/en/latest/#screens
+- https://github.com/arocks/edge
+
